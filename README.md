@@ -1,2 +1,3 @@
-# docker-ionic
-Docker image for Ionic
+# Docker image for Ionic
+
+Usage: `FROM nerdsandcompany/docker-ionic`
